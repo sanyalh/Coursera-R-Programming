@@ -1,2 +1,2 @@
 # Coursera-R-Programming
-My notes for Coursera R-Programming course
+These are my notes made for the Coursera R-Programming course.
